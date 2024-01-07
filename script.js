@@ -10,5 +10,3 @@ function playAudioAndVideo() {
         video.play();
     }
 }
-
-window.addEventListener('load', playAudioAndVideo);
